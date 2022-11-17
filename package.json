@@ -33,7 +33,7 @@
     "@xmldom/xmldom": "0.8.0",
     "@vue/cli": "5.0.0-alpha.0",
     "@uppy/companion": "2.0.0-alpha.0",
-    "@shopify/koa-shopify-auth": "3.1.61",
+    "@shopify/koa-shopify-auth": "3.1.63",
     "@sap-cloud-sdk/core": "1.19.0",
     "@npmcli/git": "1.0.0",
     "@ionic/core": "4.1.0",

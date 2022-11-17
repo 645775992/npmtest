@@ -30,7 +30,7 @@
     "zone.js": "~0.11.4",
     "airtable": "0.1.19",
     "aegir": "12.0.0",
-    "@xmldom/xmldom": "0.8.0",
+    "@xmldom/xmldom": "0.8.4",
     "@vue/cli": "5.0.0-alpha.0",
     "@uppy/companion": "2.0.0-alpha.0",
     "@shopify/koa-shopify-auth": "3.1.61",
